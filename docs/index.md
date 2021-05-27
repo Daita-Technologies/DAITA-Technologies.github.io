@@ -1,4 +1,5 @@
-# Welcome to MkDocs
+# Documentation
+Guides and quickstarts for integrating DAITA's products.
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
