@@ -1,4 +1,6 @@
 # Documentation
+[![build status](https://github.com/Daita-Technologies/documentation/actions/workflows/ci.yml/badge.svg)](https://github.com/Daita-Technologies/documentation/actions)
+
 Guides and quickstarts for integrating DAITA's products.
 
 ## Preview
