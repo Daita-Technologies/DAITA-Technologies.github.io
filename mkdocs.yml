@@ -1,3 +1,8 @@
 site_name: Documentation - DAITA Technologies
 theme:
   name: material
+  language: en
+
+extra:
+  version:
+    provider: mike
